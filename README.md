@@ -4,7 +4,7 @@ me chamo Kauan, tenho 15 anos, atualmente estou estudando trabalhando em linguag
 
 ![.](https://media1.tenor.com/m/dACCzmP-POsAAAAd/rx7.gif)
 ![.](https://media1.tenor.com/m/XftXLAeExIgAAAAd/cars-toyota.gif)
-
+![.](https://media1.tenor.com/m/ESz6rw1I9RIAAAAd/brz-gt86.gif)
 
 
 
