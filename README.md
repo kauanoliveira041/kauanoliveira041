@@ -1,4 +1,18 @@
-## Hi there 👋
+me chamo Kauan, tenho 15 anos, atualmente estou estudando trabalhando em linguagem de programação, gosto bastande de bikes, carros baixos e esportivos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **kauanoliveira041/kauanoliveira041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
