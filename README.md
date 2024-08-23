@@ -1,15 +1,15 @@
--me chamo Kauan
--tenho 15 anos
--atualmente estou estudando trabalhando em linguagem de programação
--gosto bastande de bikes, carros baixos e esportivos.
+- me chamo Kauan
+- tenho 15 anos
+- atualmente estou estudando trabalhando em linguagem de programação
+- gosto bastande de bikes, carros baixos e esportivos.
 
 
 
 ![.](https://media1.tenor.com/m/dACCzmP-POsAAAAd/rx7.gif)
 ![.](https://media1.tenor.com/m/XftXLAeExIgAAAAd/cars-toyota.gif)
 ![.](https://media1.tenor.com/m/ESz6rw1I9RIAAAAd/brz-gt86.gif)
-
-
+![.](https://media1.tenor.com/m/sFjHkIrG5QwAAAAd/drift-drifting.gif)
+![.](https://media1.tenor.com/m/z6GVU9vPNdQAAAAd/drift-phonk.gif)
 
 
 
