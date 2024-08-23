@@ -1,4 +1,7 @@
-me chamo Kauan, tenho 15 anos, atualmente estou estudando trabalhando em linguagem de programação, gosto bastande de bikes, carros baixos e esportivos.
+-me chamo Kauan
+-tenho 15 anos
+-atualmente estou estudando trabalhando em linguagem de programação
+-gosto bastande de bikes, carros baixos e esportivos.
 
 
 
